@@ -1,6 +1,6 @@
 ![object detection with TF.js in Twilio Video](bbox.gif)
 <ol>
-<li>Make a Twilio video application ie <a href = "https://www.twilio.com/blog/build-a-video-app-javascript-twilio-cli-quickly" target="_blank">this one in 9 minutes</a>, including the [Twilio Serverless Toolkit](https://www.twilio.com/docs/labs/serverless-toolkit) installed.</li>
+<li>Make a Twilio video application ie <a href = "https://www.twilio.com/blog/build-a-video-app-javascript-twilio-cli-quickly" target="_blank">this one in 9 minutes</a>, including the <a href="https://www.twilio.com/docs/labs/serverless-toolkit" target="_blank">Twilio Serverless Toolkit</a> installed.</li>
 
 <li>All the <a href = "https://www.tensorflow.org/js" target="_blank">tensorflow.js</a>code is in <em>assets/index.js</em>.</li>
 
